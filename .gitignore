@@ -1,0 +1,9 @@
+# Source cache (fetched repos)
+.wiki/
+
+# Build output
+_site/
+
+# Local secrets and tooling
+secrets/
+__pycache__/
