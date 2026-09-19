@@ -33,7 +33,9 @@ graph:
 
 # Page layout and URL routing.
 site:
-  # layout: custom.html  # layout unset → packaged minimal index layout (see Wiki Configuration → Page layout).
+  # Local layout file (repo-local, so wiki build works without the packaged
+  # minimal layout). See Wiki Configuration → Page layout.
+  layout: layouts/index.html
   # URL prefix for built and served pages.
   base_url: /acmcsuf-memory
   # dir → slug/index.html; file → slug.html
