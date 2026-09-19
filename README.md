@@ -4,6 +4,8 @@ Machine-derived memory for the [ACM at CSUF](https://acmcsuf.com/) chapter,
 composed into the [memory hub](https://github.com/EthanThatOneKid/memory) as an
 external wiki context source.
 
+Published site: <https://ethanthatonekid.github.io/acmcsuf-memory/>
+
 This repo is the **source context** for ACM board history. The `memory` hub owns
 the curated profiles; this repo owns machine-generated ACM facts captured from
 acmcsuf.com's public board records.

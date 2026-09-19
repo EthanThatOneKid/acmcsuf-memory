@@ -28,7 +28,9 @@ jobs:
         run: wiki build
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: _site
+          # Published at /acmcsuf-memory/; the wiki build nests output under
+          # _site/<base_url>/, so upload the repo-prefixed directory.
+          path: _site/acmcsuf-memory
 
   deploy:
     needs: build
