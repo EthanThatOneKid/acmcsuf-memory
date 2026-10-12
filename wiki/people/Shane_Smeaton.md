@@ -1,5 +1,5 @@
 ---
-'@type': schema:Person
+"@type": schema:Person
 schema:name: Shane Smeaton
 schema:description: ACM at CSUF board member.
 schema:keywords:

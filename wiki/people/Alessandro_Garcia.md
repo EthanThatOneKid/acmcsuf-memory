@@ -1,5 +1,5 @@
 ---
-'@type': schema:Person
+"@type": schema:Person
 schema:name: Alessandro Garcia
 schema:description: ACM at CSUF board member.
 schema:keywords:

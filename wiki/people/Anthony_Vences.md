@@ -1,5 +1,5 @@
 ---
-'@type': schema:Person
+"@type": schema:Person
 schema:name: Anthony Vences
 schema:description: ACM at CSUF board member.
 schema:keywords:

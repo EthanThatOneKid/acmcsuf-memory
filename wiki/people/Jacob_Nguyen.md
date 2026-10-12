@@ -1,5 +1,5 @@
 ---
-'@type': schema:Person
+"@type": schema:Person
 schema:name: Jacob Nguyen
 schema:description: ACM at CSUF board member.
 schema:keywords:

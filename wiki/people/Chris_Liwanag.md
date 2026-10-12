@@ -1,5 +1,5 @@
 ---
-'@type': schema:Person
+"@type": schema:Person
 schema:name: Chris Liwanag
 schema:description: ACM at CSUF board member.
 schema:keywords:
