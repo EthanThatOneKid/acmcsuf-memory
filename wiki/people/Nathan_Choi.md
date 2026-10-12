@@ -1,5 +1,5 @@
 ---
-'@type': schema:Person
+"@type": schema:Person
 schema:name: Nathan Choi
 schema:description: ACM at CSUF board member.
 schema:keywords:

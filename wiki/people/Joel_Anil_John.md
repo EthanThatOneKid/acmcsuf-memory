@@ -1,5 +1,5 @@
 ---
-'@type': schema:Person
+"@type": schema:Person
 schema:name: Joel Anil John
 schema:description: ACM at CSUF board member.
 schema:keywords:

@@ -1,5 +1,5 @@
 ---
-'@type': schema:Person
+"@type": schema:Person
 schema:name: Ender Batu Demirtaş
 schema:description: ACM at CSUF board member.
 schema:keywords:

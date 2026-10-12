@@ -1,5 +1,5 @@
 ---
-'@type': schema:Person
+"@type": schema:Person
 schema:name: Aidan Joshi
 schema:description: ACM at CSUF board member.
 schema:keywords:

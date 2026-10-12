@@ -1,5 +1,5 @@
 ---
-'@type': schema:Person
+"@type": schema:Person
 schema:name: Syon Chau
 schema:description: ACM at CSUF board member.
 schema:keywords:

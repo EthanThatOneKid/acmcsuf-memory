@@ -1,5 +1,5 @@
 ---
-'@type': schema:Person
+"@type": schema:Person
 schema:name: Lisa Hong
 schema:description: ACM at CSUF board member.
 schema:keywords:

@@ -1,5 +1,5 @@
 ---
-'@type': schema:Person
+"@type": schema:Person
 schema:name: Mark Gaballa
 schema:description: ACM at CSUF board member.
 schema:keywords:
